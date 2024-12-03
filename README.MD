@@ -22,6 +22,7 @@ Follow these steps to create a pull request in GitHub:
 
 ## 2. Navigate to the project directory
 - cd <project_directory>
+## 3. 
 - git checkout -b <branch_name>
 
  
